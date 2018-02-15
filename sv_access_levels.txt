@@ -1,0 +1,4 @@
+"Id","ACCESS_LEVEL","ROW_VERSION"
+"1","Reader",""
+"2","Contributor",""
+"3","Administrator",""

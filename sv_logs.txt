@@ -1,0 +1,5 @@
+"LG_ID","LG_BODY","CREATED_ON"
+"3","Page Item is: Green","2017-12-09T16:13:40"
+"4","Page Item is: :P1_Q43","2017-12-09T16:15:58"
+"1","APEX_APPLICATION.g_request is:  Submit","2017-12-09T00:00:00"
+"2","APEX_APPLICATION.g_flow_step_id is: 1","2017-12-09T00:00:00"
